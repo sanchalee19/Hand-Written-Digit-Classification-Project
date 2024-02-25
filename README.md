@@ -11,6 +11,11 @@ It has total 70k images. This dataset was inbuilt in the keras API. This dataset
 It is a multi-class classification problem as there are 10 digits from 0-9 which the model needs to identify.
 ## Demo Image
 ![image](https://github.com/sanchalee19/Hand-Written-Digit-Classification-Project/assets/115171947/31def647-a3f5-4055-af45-e55ecd15e3e2)
+## ACCURACY
+![image](https://github.com/sanchalee19/Hand-Written-Digit-Classification-Project/assets/115171947/12ec90e6-3d21-4603-ab93-58d4f483c3a4)
+## LOSS
+![image](https://github.com/sanchalee19/Hand-Written-Digit-Classification-Project/assets/115171947/02dd7621-b637-4ddb-a2b5-23b24148c707)
+
 ## Technologies and Tools
 1. Python/n
 2. TensorFlow
@@ -22,4 +27,4 @@ It is a multi-class classification problem as there are 10 digits from 0-9 which
 8. Pandas
 9. GitHub
 ## Conclusion
-The highest accuracy of the model is 97.89%.
+The accuracy of the model is 97.89% and loss is 1.1315 .
